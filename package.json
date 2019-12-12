@@ -1,0 +1,10 @@
+{
+  "name": "uber-move-text-webfont",
+  "version": "1.0.0",
+  "description": "Uber Move Text web font",
+  "main": "font.css",
+  "repository": "git@github.com:soham2008xyz/Uber-Move-Text.git",
+  "author": "Soham Banerjee <soham@renderbit.com>",
+  "license": "MIT",
+  "private": false
+}
